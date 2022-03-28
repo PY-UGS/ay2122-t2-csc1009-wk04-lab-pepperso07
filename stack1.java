@@ -1,4 +1,4 @@
-package Wk4;
+
 import java.util.Scanner;
 public class stack1 {
 
