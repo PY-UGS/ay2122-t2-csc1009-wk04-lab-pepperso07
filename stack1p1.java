@@ -1,5 +1,3 @@
-package Wk4;
-
 public class stack1p1 {
 	  public static void main(String[] args) {
 	        stack1 stack = new stack1();
