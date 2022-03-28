@@ -1,5 +1,3 @@
-package Wk4;
-
 import java.util.Scanner;
 
 public class BMI2 {
@@ -40,3 +38,4 @@ public class BMI2 {
     }
 
 }
+
