@@ -1,5 +1,4 @@
 
-import java.util.Scanner;
 public class stack1 {
 
 	    private int[] elements;
